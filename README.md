@@ -18,36 +18,42 @@ Premium Amount: 5.98M
 Coverage Amount: 600.55M
 Claim Amount: 16.91M
 Gender Split: ~5001 Female | ~5003 Male
+
 → Near equal distribution simplifies demographic comparison.
 
-2. Premium Amount by Policy Type
+3. Premium Amount by Policy Type
 Travel: 2.5M (highest)
 Health: 1.2M
 Auto: 1.0M
 Life: 0.7M
 Home: 0.6M
+
 → Travel policies are the major revenue generator in the dataset.
 
-3. Policy Activity (Active vs Inactive)
+5. Policy Activity (Active vs Inactive)
 Active Policies: 5.82K (58%)
 Inactive Policies: 4.19K (42%)
+
 → Customer retention is an issue — many policies drop off.
 
-4. Claim Status Overview
+7. Claim Status Overview
 Rejected: 4.4K (highest)
 Settled: 3.4K
 Pending: 2.3K
+
 → High rejection rate signals documentation issues or strict process.
 
-5. Claim Amount by Age Group
+9. Claim Amount by Age Group
 Adults: 8.8M
 Elders: 6.4M
 Young Adults: 1.7M
+
 → Adults form the largest claim risk segment.
 
-7. Policy Type vs Claim Distribution
+11. Policy Type vs Claim Distribution
 For each policy type (Auto, Health, Home, Life, Travel), the dashboard breaks down:
 Pending claim amount
 Settled claim amount
 Rejected claim amount
+
 Useful for identifying which product categories are performing well or bleeding losses.
